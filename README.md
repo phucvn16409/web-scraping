@@ -1,4 +1,4 @@
-# Project Name: Web Scraping with API and Web Driver in Google Colab
+# Web Scraping with API and Web Driver in Google Colab
 
 ## Description
 This project is a web scraping application that collects data from websites using both APIs and a web driver, and it is designed to run in Google Colab or Local Host. It utilizes API requests for data that is directly accessible via APIs and a web driver for data that requires rendering JavaScript or interactions with the website.
